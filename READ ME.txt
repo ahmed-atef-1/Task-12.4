@@ -1,0 +1,7 @@
+Exponential smoothing filter
+_____________________________
+https://www.tinkercad.com/things/a1LJmtCGE5r-bodacious-curcan/editel?sharecode=49aXpfwnmsOsmb1SwMXFCio241sfoc4yJhJk9ZG4r48
+
+PID
+___
+https://www.tinkercad.com/things/8J90J8uUhcU-amazing-densor/editel?returnTo=%2Fthings%2F8J90J8uUhcU-amazing-densor&sharecode=LQsAEbcEA3TkOEC140MRb9nt6BypARtYKEcDwepP0Ec
